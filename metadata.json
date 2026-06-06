@@ -1,0 +1,8 @@
+{
+  "name": "Remix: IS Blueprint Planner",
+  "description": "เเผนที่เเละเครื่องมือวางแผนการเขียนการศึกษาค้นคว้าอิสระ (IS) สำหรับนักศึกษาและอาจารย์ที่ปรึกษา",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
